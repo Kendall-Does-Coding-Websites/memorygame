@@ -68,7 +68,7 @@ function onCardClicked(e) {
       combosFound++;
       clickedCard = null;
       if (combosFound === 8) {
-        alert('YOU WIN! Please refresh this page to play again.');
+        alert('YOU WIN! Please tap the RESET button to play again :)');
       }
     }
   }
